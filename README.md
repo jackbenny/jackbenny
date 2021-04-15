@@ -1,7 +1,7 @@
 * Lifelong learner :school: :notebook_with_decorative_cover:
 * Linux consultant :penguin: :whale:
-* Author :books: :books:
-* Publisher :newspaper: :newspaper:
+* Author :books: :orange_book:
+* Publisher :newspaper: :green_book:
 
 ## Books I've written
 * [Grunderna i
@@ -15,7 +15,7 @@
   (Swedish)
 * [Linux System Programming Techniques](https://www.amazon.com/dp/1789951283) (English)
 
-## Courses I've published
+## Courses I've made
 * [Linux Command Line: From novice to
   wizard](https://www.udemy.com/course/linux-command-line-from-novice-to-wizard/?referralCode=D1F8010EA93F631EAC6D)
   (English)
