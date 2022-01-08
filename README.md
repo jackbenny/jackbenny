@@ -7,15 +7,20 @@
 * [Grunderna i
   programmering](https://cyberinfo.se/bocker/#grunderna-i-programmering)
   (Swedish)
+    * [All code examples](https://github.com/jackbenny/grunderna-i-programmering-andra-utgavan)
 * [C-programmering i Linux, macOS, BSD och
   Solaris](https://cyberinfo.se/bocker/#c-programmering-i-linux-macos-bsd-och-solaris)
   (Swedish)
+    * [All code examples](https://github.com/jackbenny/c-programmering-tredje-utgavan)
 * [Linux systemadministration från
   grunden](https://cyberinfo.se/bocker/#linux-systemadministration-fr%C3%A5n-grunden)
   (Swedish)
+    * [All code examples](https://github.com/jackbenny/linux-systemadministration-fran-grunden)
 * [Linux System Programming Techniques](https://www.amazon.com/dp/1789951283) (English)
+    * [All code examples](https://github.com/PacktPublishing/Linux-System-Programming-Techniques)
 * [Docker från
   grunden](https://www.cyberinfo.se/bocker/#docker-fr%C3%A5n-grunden) (Swedish)
+    * [All code files](https://github.com/jackbenny/docker-fran-grunden)
 
 ## Courses I've made
 * [Linux Command Line: From novice to
