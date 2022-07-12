@@ -21,7 +21,7 @@
 * [Docker från
   grunden](https://www.cyberinfo.se/bocker/#docker-fr%C3%A5n-grunden) (Swedish)
     * [All code files](https://github.com/jackbenny/docker-fran-grunden)
-* Ansible från grunden (Swedish, work in progress)
+* [Ansible från grunden](https://www.cyberinfo.se/bocker/#ansible-fr%C3%A5n-grunden) (Swedish)
     * [All code files](https://github.com/jackbenny/ansible-fran-grunden)
 
 
