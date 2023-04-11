@@ -23,6 +23,9 @@
     * [All code files](https://github.com/jackbenny/docker-fran-grunden)
 * [Ansible från grunden](https://www.cyberinfo.se/bocker/#ansible-fr%C3%A5n-grunden) (Swedish)
     * [All code files](https://github.com/jackbenny/ansible-fran-grunden)
+* [Demonerna på internet](https://www.cyberinfo.se/bocker/#demonerna-p%C3%A5-internet) (Swedish)
+    * [All code files](https://github.com/jackbenny/demonerna-pa-internet)
+
 
 
 ## Courses I've made
