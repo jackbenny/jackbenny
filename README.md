@@ -7,8 +7,8 @@
 * [Grunderna i
   programmering](https://cyberinfo.se/bocker/#grunderna-i-programmering)
   (Swedish)
-    * [All code examples (3rd edition](https://github.com/jackbenny/grunderna-i-prog-tredje-utgavan)
-    * [All code examples (2nd edition](https://github.com/jackbenny/grunderna-i-programmering-andra-utgavan)
+    * [All code examples (3rd edition)](https://github.com/jackbenny/grunderna-i-prog-tredje-utgavan)
+    * [All code examples (2nd edition)](https://github.com/jackbenny/grunderna-i-programmering-andra-utgavan)
 * [C-programmering i Linux, macOS, BSD och
   Solaris](https://cyberinfo.se/bocker/#c-programmering-i-linux-macos-bsd-och-solaris)
   (Swedish)
